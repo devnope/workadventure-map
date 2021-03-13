@@ -128,15 +128,26 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":31,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":23,
          "layers":[
                 {
                  "compression":"zstd",
-                 "data":"JbUv\/QMAApEKMalBAA\/HGlAbuB\/o\/28xcxn4\/3cb2JAjqoqTAXra\/\/8b2A\/o\/99oDzxMUFVJ9kBPBFU12gy2xLuX37uLlAUkJSUl2QNOAFkAWAAOVw1XpKvRlejqS\/VM8UztTOlM5UzhTN1M2Uy9MOXCVAtTNSeap5knmaeYJ5inlycVnlJ4QuHphCcTnkro8pazfOUqTznKT27ykpOchANnIWcgZyGcgXD2wZkHZx3EOMY2xjTGMsY4GNtgTIOxDMYweGF8VfBFwdcEXxJ8RfAFwdcDXw60LLYqthTYSmALga0DtgzYKmCLgK0BtihWElelq4griKuHq14DewzsOO427jTuMjqKOwHuAuC+uQxzoa3mjYW3FXIAzE3MScyV5iLmIOYe5hzmGmL41vPG87bzpvOW84bzdvNmU2NZW1lTWUtZQ1k7WTNZK1kjmY2ciQTeh\/fhfZS+iD+Iv4c\/h4k\/ib9SSOdQziGcQzcxvYsdxckfE5LHpI5JHN4IeyKMLnhkwSOMzuOuQ7TAIotFFUE0g2YGyQyKGQQz6OXH5U\/LH5Y\/K39U\/qT0RvZE9kL2QLyLA1H8MP9cFT8+PkJGSkpK1iIiJf84Ck1NRl5W\/\/IIOztJHWZiXV1lZf8wA1FRYDs7FScfGZIkhwQGCQ0WEoqH4k\/zMO3wKACYRAH0Qgh4CBoSAUZAE0AMRAARQAQSwWMEDsEzBDcE\/79D8P\/\/\/+8PwAaYRanfhBl0QFyBrSOqOwYxZ4wAwL1Sv0rEXBmBA6f21Hcm6SgYMUopwYFzGWAj\/2bRES1yUwCA93isZvlOBhWVmSxIkn1mW4BkKLszlg74KcZ+Fwh4AAil4gBlD4L3EHkASA0krQAYGBItCkVB2LnVOKJJfg\/AAAA=",
+                 "data":"JbUv\/QMAAHcRIEAcsIcUm6+eda49NMQHOLzdkScNmGBKCWIULGJAD1ebIWaHwQqgkuRAjM\/CJNLjUYwajeFSqJAL4Wuf4Au89aUDDQAQ\/zQpWmJmZmtrZ2tnYP96NP8lwOFfsL8A\/gIADgDU3wB\/AYD\/hfQ\/wP8A\/wn8D\/AHQsAAAA==",
                  "encoding":"base64",
                  "height":60,
-                 "id":5,
-                 "name":"Stra\u00dfendeko",
+                 "id":10,
+                 "name":"Absperrung",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -146,11 +157,11 @@
                 }, 
                 {
                  "compression":"zstd",
-                 "data":"JbUv\/QMAAHcRIEAcsIcUm6+eda49NMQHOLzdkScNmGBKCWIULGJAD1ebIWaHwQqgkuRAjM\/CJNLjUYwajeFSqJAL4Wuf4Au89aUDDQAQ\/zQpWmJmZmtrZ2tnYP96NP8lwOFfsL8A\/gIADgDU3wB\/AYD\/hfQ\/wP8A\/wn8D\/AHQsAAAA==",
+                 "data":"JbUv\/QMAApEKMalBAA\/HGlAbuB\/o\/28xcxn4\/3cb2JAjqoqTAXra\/\/8b2A\/o\/99oDzxMUFVJ9kBPBFU12gy2xLuX37uLlAUkJSUl2QNOAFkAWAAOVw1XpKvRlejqS\/VM8UztTOlM5UzhTN1M2Uy9MOXCVAtTNSeap5knmaeYJ5inlycVnlJ4QuHphCcTnkro8pazfOUqTznKT27ykpOchANnIWcgZyGcgXD2wZkHZx3EOMY2xjTGMsY4GNtgTIOxDMYweGF8VfBFwdcEXxJ8RfAFwdcDXw60LLYqthTYSmALga0DtgzYKmCLgK0BtihWElelq4griKuHq14DewzsOO427jTuMjqKOwHuAuC+uQxzoa3mjYW3FXIAzE3MScyV5iLmIOYe5hzmGmL41vPG87bzpvOW84bzdvNmU2NZW1lTWUtZQ1k7WTNZK1kjmY2ciQTeh\/fhfZS+iD+Iv4c\/h4k\/ib9SSOdQziGcQzcxvYsdxckfE5LHpI5JHN4IeyKMLnhkwSOMzuOuQ7TAIotFFUE0g2YGyQyKGQQz6OXH5U\/LH5Y\/K39U\/qT0RvZE9kL2QLyLA1H8MP9cFT8+PkJGSkpK1iIiJf84Ck1NRl5W\/\/IIOztJHWZiXV1lZf8wA1FRYDs7FScfGZIkhwQGCQ0WEoqH4k\/zMO3wKACYRAH0Qgh4CBoSAUZAE0AMRAARQAQSwWMEDsEzBDcE\/79D8P\/\/\/+8PwAaYRanfhBl0QFyBrSOqOwYxZ4wAwL1Sv0rEXBmBA6f21Hcm6SgYMUopwYFzGWAj\/2bRES1yUwCA93isZvlOBhWVmSxIkn1mW4BkKLszlg74KcZ+Fwh4AAil4gBlD4L3EHkASA0krQAYGBItCkVB2LnVOKJJfg\/AAAA=",
                  "encoding":"base64",
                  "height":60,
-                 "id":10,
-                 "name":"Absperrung",
+                 "id":5,
+                 "name":"Stra\u00dfendeko",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -165,7 +176,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":31,
+ "nextlayerid":32,
  "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
