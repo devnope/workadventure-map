@@ -53,6 +53,8 @@
          "height":45,
          "id":8,
          "name":"startSecond",
+         "offsetx":381,
+         "offsety":20,
          "opacity":1,
          "properties":[
                 {
@@ -75,7 +77,7 @@
          "name":"floorLayer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -89,7 +91,7 @@
          "name":"street",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
