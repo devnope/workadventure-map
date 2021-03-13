@@ -20,6 +20,8 @@
          "height":34,
          "id":11,
          "name":"start",
+         "offsetx":-350,
+         "offsety":416,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
