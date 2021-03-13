@@ -186,7 +186,7 @@
         {
          "columns":288,
          "firstgid":1,
-         "image":"..\/newbase\/Maintilemap_Shadows.png",
+         "image":"Maintilemap_Shadows.png",
          "imageheight":1008,
          "imagewidth":4608,
          "margin":0,
@@ -250,7 +250,7 @@
         {
          "columns":2,
          "firstgid":18145,
-         "image":"..\/newbase\/collision.png",
+         "image":"collision.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
